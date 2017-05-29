@@ -1,0 +1,7 @@
+{
+    "delete_agent": "delete from tigo.agent where id = @id",
+    "get_agent": "select * from tigo.agent where id = @id",
+    "get_agents": "select * from tigo.agent limit 10",
+    "insert_agent": "insert into tigo.agent (id,pin,name,lastname,email,msisdn,company,balance) values (uuid(), @pin, '@name', '@lastname', '@email', @msisdn, '@company', @balance)",
+    "update_agent": "update tigo.agent set pin = @pin,name = '@name',lastname = '@lastname',email = '@email',msisdn = @msisdn,company = '@company',balance = @balance where id = @id"
+}

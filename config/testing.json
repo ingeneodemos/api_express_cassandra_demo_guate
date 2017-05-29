@@ -1,0 +1,20 @@
+{
+        "allowHttpMethods": "GET, POST, PUT, DELETE",
+        "apiName": "/cassandra/api/",
+        "apiPort": 5001,
+        "apiVersion": "v1",
+        "backlog": 511,
+        "cassandraPass": "cassandra",
+        "cassandraUrls":
+        [
+                "localhost"
+        ],
+        "cassandraUser": "cassandra",
+        "host": "0.0.0.0",
+        "logFileSize": 5,
+        "logRequests": true,
+        "logSql": true,
+        "logLevel": "debug",
+        "logMaxFiles": 10,
+        "logPath": "logs/api_cassandra.log"
+}

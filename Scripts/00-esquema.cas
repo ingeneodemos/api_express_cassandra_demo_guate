@@ -1,0 +1,13 @@
+use tigo;
+CREATE TABLE agent (
+    id uuid primary key, 
+    pin bigint,
+    name text, 
+    lastname text,
+    email text,
+    msisdn bigint,
+    company text,
+    balance decimal
+);
+
+

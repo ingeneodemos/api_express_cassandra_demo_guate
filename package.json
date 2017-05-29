@@ -1,0 +1,22 @@
+{
+  "name": "api_sms_mms",
+  "version": "1.0.0",
+  "description": "Api Nodejs que se conecta a cassandra",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "development": "nodemon app.js",
+    "production": "pm2 start app.js -i 0 -- production",
+    "testing": "pm2 start app.js -i 0 -- testing"
+  },
+  "author": "Daniel Molina",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2",
+    "winston": "^2.3.1",
+    "body-parser": "^1.15.2",
+    "cassandra-driver": "^3.1.0",
+    "mocha": "^2.5.3",
+    "moment": "^2.13.0"
+  }
+}

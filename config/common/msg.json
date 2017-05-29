@@ -1,0 +1,14 @@
+{
+    "error_code":500,
+    "error_query_code":400,
+    "success_code":200,
+    "pin_required":"El 'pin' es requerido",
+    "name_required":"El 'name' es requerido",
+    "lastname_required":"El 'lastname' es requerido",
+    "email_required":"El 'email' es requerido",
+    "msisdn_required":"El 'msisdn' es requerido",
+    "company_required":"El 'company' es requerido",
+    "balance_required":"El 'balance' es requerido",
+    "resource_not_found":"Recurso no encontrado",
+    "incorrec_type":"El siguiente campo tiene un tipo de dato incorrecto : "
+}

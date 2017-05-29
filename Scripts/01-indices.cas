@@ -1,0 +1,2 @@
+use tigo;
+create index index_pin on agent(pin);

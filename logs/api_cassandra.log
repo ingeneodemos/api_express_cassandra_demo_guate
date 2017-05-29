@@ -1,0 +1,3 @@
+2017-05-29 14:23:57.645 - info: service : /cassandra/api/v1/agent
+2017-05-29 14:23:57.661 - info: Servidor corriendo en : 0.0.0.0:5001
+2017-05-29 14:24:02.786 - info: Conexión a cassandra correcta 

@@ -1,0 +1,5 @@
+projectKey=api_express_cassandra_demo_guate:js
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/api_express_cassandra_demo_guate:js
+ceTaskId=AVxT0GD2iHnjmJLlHnlW
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AVxT0GD2iHnjmJLlHnlW
