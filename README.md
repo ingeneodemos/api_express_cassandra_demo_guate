@@ -2,6 +2,8 @@
 <ol>
 <li>Ejecutar el comando : <b>npm install</b></li>
 <li>Ejecutar el comando : <b>npm install -g pm2</b></li>
+<li>Crear un KeySpace llamado "tigo" en Cassandra</li>
+<li>Ejecutar en cassandra los archivos que se encuentran en la carpeta "Scripts"</li>
 <li>Configurar uno de los archivos de propiedades segun el entorno
 <p>En estos archivos se configuran propiedades como la conexión a la base de datos, el puerto que usa la API...</p>
 
