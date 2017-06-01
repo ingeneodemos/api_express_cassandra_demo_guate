@@ -1,6 +1,6 @@
 <h2>Pasos</h2>
 <ol>
-<li>Abrir una terminal en la carpeta del proyecto</li>
+<li>Abrir una consola en la carpeta del proyecto</li>
 <li>Ejecutar el comando : <b>npm install</b></li>
 <li>Ejecutar el comando : <b>npm install -g pm2</b></li>
 <li>Crear un KeySpace llamado "tigo" en Cassandra</li>
